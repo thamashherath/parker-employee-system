@@ -1,3 +1,5 @@
+Get pull and checkout in master branch
+
 Install project
 1. Go to the project directory
 2. enter the command "npm i" to install node modules
